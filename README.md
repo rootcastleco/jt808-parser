@@ -62,7 +62,7 @@ Paste a hex string, hit **Parse frame**, and instantly explore header fields, lo
 
 ```bash
 git clone https://github.com/rootcastleco/jt808-parser.git
-cd your-repo
+cd jt808-parser
 ```
 
 
@@ -174,11 +174,3 @@ You can easily extend or adapt the parser:
 
 ***
 
-## License
-
-Choose a license that matches your needs, for example:
-
-```text
-MIT License
-
-Copyright (c) 
